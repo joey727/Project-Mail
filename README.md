@@ -15,6 +15,6 @@ This is a web application for sending and recieving emails (just like gmail).
 4. Bootstrap
 
 # How to run program
-Start a virtual environment
-Download Django if not already installed on your pc with command 'pip install django'
-run locally in terminal with 'python manage.py runserver' 
+1. Start a virtual environment
+2. Download Django if not already installed on your pc with command 'pip install django'
+3. run locally in terminal with 'python manage.py runserver' 
